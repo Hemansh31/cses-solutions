@@ -1,0 +1,5 @@
+boilerplate.cpp
+input.txt
+output.txt
+**/*.out
+.vscode
